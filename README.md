@@ -86,4 +86,4 @@ Start with ```python3 -m NekoRobot```
 </details>
 ### Deploy it in 7 seconds: 
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://github.com/kazuyakun07/starter-express-api/)
+[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://cyclic.app/)
